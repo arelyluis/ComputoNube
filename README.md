@@ -48,6 +48,6 @@ As indicated, a personal web page is created and served through a web server tha
     docker run -p 4000:80 --name final-apache -d final-docker
    ```
 ## References
-Para consultas o sugerencias, abre un issue o contacta a los autores.
+- Apellido, Iniciales. [Fazt Code]. (29, Marzo 2023). Tutorial de Apache en Docker para principiantes (httpd) . YouTube. https://www.youtube.com/watch?v=-563XKoRfZ8&list=LL&index=1
 
 
