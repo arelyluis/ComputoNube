@@ -44,9 +44,7 @@ As indicated, a personal web page is created and served through a web server tha
     docker run -p 4000:80 --name final-apache -d final-docker
    ```
 6. Visit http://localhost:4000⁠ and you will see It works!:
-   ```bash
-    docker run -p 4000:80 --name final-apache -d final-docker
-   ```
+   
 ## References
 
 ### Videos
@@ -56,5 +54,11 @@ As indicated, a personal web page is created and served through a web server tha
 ### Website Template
 
 - Free Css. https://www.free-css.com/free-css-templates/page296/spering
+
+  ### Sites
+
+  - Docker Hub. https://hub.docker.com/_/httpd
+  - Aprende HTML y CSS - Curso Desde Cero: https://www.freecodecamp.org/espanol/news/aprende-html-y-css-curso-desde-cero/
+    
 
 
