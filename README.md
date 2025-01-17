@@ -59,6 +59,8 @@ As indicated, a personal web page is created and served through a web server tha
 
   - Docker Hub. https://hub.docker.com/_/httpd
   - Aprende HTML y CSS - Curso Desde Cero: https://www.freecodecamp.org/espanol/news/aprende-html-y-css-curso-desde-cero/
+  - Usando la API de Kaggle con Google Colab para carga y descarga de datasets: https://platzi.com/tutoriales/1794-pandas/6926-usando-la-api-de-kaggle-con-google-colab-para-carga-y-descarga-de-datasets/#:~:text=Lo%20primero%20que%20debemos%20hacer,a%20la%20api%20de%20Kaggle.
+  - 
     
 
 
