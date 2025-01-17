@@ -47,9 +47,7 @@ As indicated, a personal web page is created and served through a web server tha
    ```bash
     docker run -p 4000:80 --name final-apache -d final-docker
    ```
-## Contacto
+## References
 Para consultas o sugerencias, abre un issue o contacta a los autores.
 
-## Licencia
-Indicar la licencia bajo la cual se distribuye el proyecto.
 
